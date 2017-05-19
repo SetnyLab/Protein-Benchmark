@@ -1,5 +1,5 @@
-# ProteinBenchmark
-## ProteinBenchmark
+# Protein Benchmark
+## Protein Benchmark
 This directory contains subdirectories with data for proteins: 
 chingolin (CH), lambda_repressor (LR), adenylate_kinase (AK), lao_protein (LP), protein_g (PG) and *csv file.
 
@@ -21,7 +21,7 @@ The directory includes file:
 1) *csv
 table 2. with explicit solvent results and their uncertainties in kcal/mol.
 More data is available upon request (email: p.setny@cent.uw.edu.pl).
-## ProteinBenchmarkDensities
+## Protein Benchmark Densities
 This directory contains subdirectories with data for proteins: 
 chingolin (CH), lambda_repressor (LR), adenylate_kinase (AK), lao_protein (LP), protein_g (PG) and *csv file.
 
